@@ -34,7 +34,7 @@ A Python script for automated cryptocurrency withdrawals to multiple addresses v
 
 3. Setup necessary files:
     - `addresses.txt`
-    - `config.txt`
+    - `config.py`
 
 4. Setup config.py
 
