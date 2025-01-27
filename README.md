@@ -33,7 +33,7 @@ A Python script for automated cryptocurrency withdrawals to multiple addresses v
     pip install -r requirements.txt
 
 3. Setup necessary files:
-    - `addressex.txt`
+    - `addresses.txt`
     - `config.txt`
 
 4. Setup config.py
@@ -43,3 +43,8 @@ A Python script for automated cryptocurrency withdrawals to multiple addresses v
 - After successful setup run:
     ```bash
     python withdraw.py
+
+## Donate
+
+- EVM: `0x3124Be9C360d4931bF9937Da4DB3507899F0f7EB`
+- SOL: `9htc1cTKmHwBMwQZSgZJFQNz7nKiUaC9G5x1ZDt8oXHP`
