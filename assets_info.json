@@ -1,0 +1,1917 @@
+[
+    {
+        "name": "Tether",
+        "chain": "USDT-TRC20",
+        "fee": "2"
+    },
+    {
+        "name": "Tether",
+        "chain": "USDT-ERC20",
+        "fee": "2.79"
+    },
+    {
+        "name": "Tether",
+        "chain": "USDT-Aptos",
+        "fee": "0.03"
+    },
+    {
+        "name": "Tether",
+        "chain": "USDT-Arbitrum One",
+        "fee": "0.098"
+    },
+    {
+        "name": "Tether",
+        "chain": "USDT-Avalanche C-Chain",
+        "fee": "0.22"
+    },
+    {
+        "name": "Tether",
+        "chain": "USDT-OKTC",
+        "fee": "0"
+    },
+    {
+        "name": "Tether",
+        "chain": "USDT-Optimism",
+        "fee": "0.15"
+    },
+    {
+        "name": "Tether",
+        "chain": "USDT-Polygon",
+        "fee": "0.8"
+    },
+    {
+        "name": "Tether",
+        "chain": "USDT-Solana",
+        "fee": "1"
+    },
+    {
+        "name": "Tether",
+        "chain": "USDT-TON",
+        "fee": "0.15"
+    },
+    {
+        "name": "Tether",
+        "chain": "USDT-X Layer",
+        "fee": "0.1"
+    },
+    {
+        "name": "USD Coin",
+        "chain": "USDC-ERC20",
+        "fee": "2.79"
+    },
+    {
+        "name": "USD Coin",
+        "chain": "USDC-Arbitrum One",
+        "fee": "0.098"
+    },
+    {
+        "name": "USD Coin",
+        "chain": "USDC-Avalanche C-Chain",
+        "fee": "0"
+    },
+    {
+        "name": "USD Coin",
+        "chain": "USDC-Base",
+        "fee": "0.1"
+    },
+    {
+        "name": "USD Coin",
+        "chain": "USDC-OKTC",
+        "fee": "0"
+    },
+    {
+        "name": "USD Coin",
+        "chain": "USDC-Optimism",
+        "fee": "0.15"
+    },
+    {
+        "name": "USD Coin",
+        "chain": "USDC-Polygon",
+        "fee": "0.8"
+    },
+    {
+        "name": "USD Coin",
+        "chain": "USDC-Polygon (Bridged)",
+        "fee": "0.2"
+    },
+    {
+        "name": "USD Coin",
+        "chain": "USDC-Solana",
+        "fee": "1"
+    },
+    {
+        "name": "USD Coin",
+        "chain": "USDC-X Layer",
+        "fee": "0.1"
+    },
+    {
+        "name": "Bitcoin",
+        "chain": "BTC-Bitcoin",
+        "fee": "0.00002"
+    },
+    {
+        "name": "Bitcoin",
+        "chain": "BTC-Lightning",
+        "fee": "0.000001"
+    },
+    {
+        "name": "Bitcoin",
+        "chain": "BTCK-OKTC",
+        "fee": "0"
+    },
+    {
+        "name": "Ethereum",
+        "chain": "ETH-ERC20",
+        "fee": "0.00085"
+    },
+    {
+        "name": "Ethereum",
+        "chain": "ETH-Arbitrum One",
+        "fee": "0.00004"
+    },
+    {
+        "name": "Ethereum",
+        "chain": "ETH-Base",
+        "fee": "0.00004"
+    },
+    {
+        "name": "Ethereum",
+        "chain": "ETH-Linea",
+        "fee": "0.0002"
+    },
+    {
+        "name": "Ethereum",
+        "chain": "ETHK-OKTC",
+        "fee": "0"
+    },
+    {
+        "name": "Ethereum",
+        "chain": "ETH-Optimism",
+        "fee": "0.00004"
+    },
+    {
+        "name": "Ethereum",
+        "chain": "ETH-Starknet",
+        "fee": "0.000095"
+    },
+    {
+        "name": "Ethereum",
+        "chain": "ETH-X Layer",
+        "fee": "0.00003"
+    },
+    {
+        "name": "Ethereum",
+        "chain": "ETH-zkSync Era",
+        "fee": "0.000041"
+    },
+    {
+        "name": "OKB",
+        "chain": "OKB-ERC20",
+        "fee": "0.052"
+    },
+    {
+        "name": "OKB",
+        "chain": "OKB-OKTC",
+        "fee": "0"
+    },
+    {
+        "name": "OKB",
+        "chain": "OKB-X Layer",
+        "fee": "0.001"
+    },
+    {
+        "name": "Litecoin",
+        "chain": "LTC-Litecoin",
+        "fee": "0.001"
+    },
+    {
+        "name": "Litecoin",
+        "chain": "LTCK-OKTC",
+        "fee": "0"
+    },
+    {
+        "name": "Ripple",
+        "chain": "XRP-Ripple",
+        "fee": "0.2"
+    },
+    {
+        "name": "Ripple",
+        "chain": "XRPK-OKTC",
+        "fee": "0"
+    },
+    {
+        "name": "Bitcoin Cash",
+        "chain": "BCH-BitcoinCash",
+        "fee": "0.0008"
+    },
+    {
+        "name": "Bitcoin Cash",
+        "chain": "BCHK-OKTC",
+        "fee": "0"
+    },
+    {
+        "name": "Bitcoin SV",
+        "chain": "BSV-Bitcoin SV",
+        "fee": "0.0004"
+    },
+    {
+        "name": "Ethereum Classic",
+        "chain": "ETC-Ethereum Classic",
+        "fee": "0.008"
+    },
+    {
+        "name": "Ethereum Classic",
+        "chain": "ETCK-OKTC",
+        "fee": "0"
+    },
+    {
+        "name": "1INCH",
+        "chain": "1INCH-ERC20",
+        "fee": "8.82"
+    },
+    {
+        "name": "Aave Token",
+        "chain": "AAVE-ERC20",
+        "fee": "0.0087"
+    },
+    {
+        "name": "Acala",
+        "chain": "ACA-Acala",
+        "fee": "0.1"
+    },
+    {
+        "name": "ACE",
+        "chain": "ACE-Endurance Smart Chain",
+        "fee": "0.008"
+    },
+    {
+        "name": "Alchemy Pay",
+        "chain": "ACH-ERC20",
+        "fee": "125.45"
+    },
+    {
+        "name": "Act I: The AI Prophecy",
+        "chain": "ACT-Solana",
+        "fee": "12"
+    },
+    {
+        "name": "Cardano",
+        "chain": "ADA-Cardano",
+        "fee": "0.8"
+    },
+    {
+        "name": "Aergo",
+        "chain": "AERGO-ERC20",
+        "fee": "24.41"
+    },
+    {
+        "name": "Aevo",
+        "chain": "AEVO-ERC20",
+        "fee": "9.88"
+    },
+    {
+        "name": "Adventure Gold",
+        "chain": "AGLD-ERC20",
+        "fee": "1.75"
+    },
+    {
+        "name": "ArbDoge AI",
+        "chain": "AIDOGE-Arbitrum One",
+        "fee": "2000000000"
+    },
+    {
+        "name": "aixbt by Virtuals",
+        "chain": "AIXBT-Base",
+        "fee": "0.05"
+    },
+    {
+        "name": "Alchemix",
+        "chain": "ALCX-ERC20",
+        "fee": "0.18"
+    },
+    {
+        "name": "Algorand",
+        "chain": "ALGO-Algorand",
+        "fee": "0.008"
+    },
+    {
+        "name": "Alpha Finance Lab",
+        "chain": "ALPHA-ERC20",
+        "fee": "43"
+    },
+    {
+        "name": "Animecoin",
+        "chain": "ANIME-ERC20",
+        "fee": "50.94"
+    },
+    {
+        "name": "Animecoin",
+        "chain": "ANIME-Arbitrum One",
+        "fee": "0"
+    },
+    {
+        "name": "ApeCoin",
+        "chain": "APE-ERC20",
+        "fee": "2.8"
+    },
+    {
+        "name": "API3",
+        "chain": "API3-ERC20",
+        "fee": "2.18"
+    },
+    {
+        "name": "Aptos",
+        "chain": "APT-Aptos",
+        "fee": "0.001"
+    },
+    {
+        "name": "Arweave",
+        "chain": "AR-Arweave",
+        "fee": "0.01"
+    },
+    {
+        "name": "Arbitrum",
+        "chain": "ARB-ERC20",
+        "fee": "0.7"
+    },
+    {
+        "name": "Arbitrum",
+        "chain": "ARB-Arbitrum One",
+        "fee": "0.02"
+    },
+    {
+        "name": "Argentine Football Association Fan Token",
+        "chain": "ARG-Chiliz 2.0 Chain",
+        "fee": "0.1"
+    },
+    {
+        "name": "Arkham",
+        "chain": "ARKM-ERC20",
+        "fee": "2.28"
+    },
+    {
+        "name": "Artyfact",
+        "chain": "ARTY-BSC",
+        "fee": "1"
+    },
+    {
+        "name": "Astar",
+        "chain": "ASTR-Astar",
+        "fee": "2"
+    },
+    {
+        "name": "Aethir",
+        "chain": "ATH-ERC20",
+        "fee": "50"
+    },
+    {
+        "name": "Cosmos",
+        "chain": "ATOM-Cosmos",
+        "fee": "0.016"
+    },
+    {
+        "name": "Bounce",
+        "chain": "AUCTION-ERC20",
+        "fee": "0.22"
+    },
+    {
+        "name": "AVAX",
+        "chain": "AVAX-Avalanche X-Chain",
+        "fee": "0.048"
+    },
+    {
+        "name": "AVAX",
+        "chain": "AVAX-Avalanche C-Chain",
+        "fee": "0.0064"
+    },
+    {
+        "name": "Axie Infinity",
+        "chain": "AXS-ERC20",
+        "fee": "0.5"
+    },
+    {
+        "name": "Baby Doge Coin",
+        "chain": "BABYDOGE-OKTC",
+        "fee": "500000000"
+    },
+    {
+        "name": "Baby Doge Coin",
+        "chain": "BABYDOGE-BSC",
+        "fee": "0"
+    },
+    {
+        "name": "Badger DAO",
+        "chain": "BADGER-ERC20",
+        "fee": "0.73"
+    },
+    {
+        "name": "Balancer",
+        "chain": "BAL-ERC20",
+        "fee": "1.11"
+    },
+    {
+        "name": "Banana",
+        "chain": "BANANA-ERC20",
+        "fee": "0.07"
+    },
+    {
+        "name": "Band Protocol",
+        "chain": "BAND-ERC20",
+        "fee": "2.18"
+    },
+    {
+        "name": "Basic Attention Token",
+        "chain": "BAT-ERC20",
+        "fee": "12.03"
+    },
+    {
+        "name": "Biconomy Token",
+        "chain": "BICO-ERC20",
+        "fee": "11.04"
+    },
+    {
+        "name": "Big Time",
+        "chain": "BIGTIME-ERC20",
+        "fee": "28.85"
+    },
+    {
+        "name": "BIO",
+        "chain": "BIO-ERC20",
+        "fee": "11.57"
+    },
+    {
+        "name": "BLUR",
+        "chain": "BLUR-ERC20",
+        "fee": "1"
+    },
+    {
+        "name": "BNB",
+        "chain": "BNB-BSC",
+        "fee": "0.0002"
+    },
+    {
+        "name": "Bancor",
+        "chain": "BNT-ERC20",
+        "fee": "4.08"
+    },
+    {
+        "name": "Boba Network",
+        "chain": "BOBA-ERC20",
+        "fee": "27.3"
+    },
+    {
+        "name": "BOOK OF MEME",
+        "chain": "BOME-Solana",
+        "fee": "200"
+    },
+    {
+        "name": "Bone ShibaSwap",
+        "chain": "BONE-ERC20",
+        "fee": "7.56"
+    },
+    {
+        "name": "Bonk",
+        "chain": "BONK-Solana",
+        "fee": "25097.21"
+    },
+    {
+        "name": "BORA",
+        "chain": "BORA-Klaytn",
+        "fee": "0.3"
+    },
+    {
+        "name": "BitTorrent",
+        "chain": "BTT-TRC20",
+        "fee": "320000"
+    },
+    {
+        "name": "Swarm",
+        "chain": "BZZ-ERC20",
+        "fee": "31.51"
+    },
+    {
+        "name": "Simons Cat",
+        "chain": "CAT-BSC",
+        "fee": "20000"
+    },
+    {
+        "name": "Catizen",
+        "chain": "CATI-TON",
+        "fee": "0.04"
+    },
+    {
+        "name": "CEEK Smart VR",
+        "chain": "CEEK-BSC",
+        "fee": "0.1"
+    },
+    {
+        "name": "Celo",
+        "chain": "CELO-CELO",
+        "fee": "0.0008"
+    },
+    {
+        "name": "Celo",
+        "chain": "CELO-CELO-TOKEN",
+        "fee": "0"
+    },
+    {
+        "name": "Celer Network",
+        "chain": "CELR-ERC20",
+        "fee": "183.62"
+    },
+    {
+        "name": "Cetus",
+        "chain": "CETUS-SUI",
+        "fee": "0.1"
+    },
+    {
+        "name": "Centrifuge",
+        "chain": "CFG-ERC20",
+        "fee": "37.17"
+    },
+    {
+        "name": "Conflux Token",
+        "chain": "CFX-Conflux",
+        "fee": "0.01"
+    },
+    {
+        "name": "Conflux Token",
+        "chain": "CFX-CFX_EVM",
+        "fee": "1"
+    },
+    {
+        "name": "Chiliz",
+        "chain": "CHZ-ERC20",
+        "fee": "37.88"
+    },
+    {
+        "name": "Chiliz",
+        "chain": "CHZ-Chiliz Chain",
+        "fee": "1"
+    },
+    {
+        "name": "Manchester City Fan Token",
+        "chain": "CITY-Chiliz 2.0 Chain",
+        "fee": "0.1"
+    },
+    {
+        "name": "Clover Finance",
+        "chain": "CLV-ERC20",
+        "fee": "46.78"
+    },
+    {
+        "name": "Compound",
+        "chain": "COMP-ERC20",
+        "fee": "0.038"
+    },
+    {
+        "name": "Core",
+        "chain": "CORE-CORE",
+        "fee": "0.001"
+    },
+    {
+        "name": "Cronos",
+        "chain": "CRO-Crypto",
+        "fee": "0.03"
+    },
+    {
+        "name": "Curve DAO Token",
+        "chain": "CRV-ERC20",
+        "fee": "3.56"
+    },
+    {
+        "name": "Curve DAO Token",
+        "chain": "CRV-Polygon",
+        "fee": "0.01"
+    },
+    {
+        "name": "CasperLabs",
+        "chain": "CSPR-Casper",
+        "fee": "4"
+    },
+    {
+        "name": "Creditcoin",
+        "chain": "CTC-ERC20",
+        "fee": "2.78"
+    },
+    {
+        "name": "Cortex",
+        "chain": "CTXC-Cortex",
+        "fee": "0.0008"
+    },
+    {
+        "name": "Civic",
+        "chain": "CVC-ERC20",
+        "fee": "19.17"
+    },
+    {
+        "name": "Convex Finance",
+        "chain": "CVX-ERC20",
+        "fee": "0.81"
+    },
+    {
+        "name": "Covalent",
+        "chain": "CXT-ERC20",
+        "fee": "33.83"
+    },
+    {
+        "name": "Dai",
+        "chain": "DAI-ERC20",
+        "fee": "2.79"
+    },
+    {
+        "name": "Dai",
+        "chain": "DAIK-OKTC",
+        "fee": "0"
+    },
+    {
+        "name": "Dai",
+        "chain": "DAI-Polygon",
+        "fee": "0.1"
+    },
+    {
+        "name": "Dai",
+        "chain": "DAI-X Layer",
+        "fee": "0.1"
+    },
+    {
+        "name": "DAO Maker",
+        "chain": "DAO-BSC",
+        "fee": "0.2"
+    },
+    {
+        "name": "Degen",
+        "chain": "DEGEN-Base",
+        "fee": "0.5"
+    },
+    {
+        "name": "DEAPCOIN",
+        "chain": "DEP-ERC20",
+        "fee": "1746.45"
+    },
+    {
+        "name": "DigiByte",
+        "chain": "DGB-Digibyte",
+        "fee": "0.0032"
+    },
+    {
+        "name": "DIA",
+        "chain": "DIA-ERC20",
+        "fee": "4.57"
+    },
+    {
+        "name": "Dogecoin",
+        "chain": "DOGE-Dogecoin",
+        "fee": "4"
+    },
+    {
+        "name": "DOGS",
+        "chain": "DOGS-TON",
+        "fee": "50"
+    },
+    {
+        "name": "Dora Factory",
+        "chain": "DORA-Dora Vota Mainnet",
+        "fee": "1"
+    },
+    {
+        "name": "Polkadot",
+        "chain": "DOT-Polkadot",
+        "fee": "0.08"
+    },
+    {
+        "name": "Polkadot",
+        "chain": "DOTK-OKTC",
+        "fee": "0"
+    },
+    {
+        "name": "Duckchain",
+        "chain": "DUCK-TON",
+        "fee": "5"
+    },
+    {
+        "name": "dYdX",
+        "chain": "DYDX-ERC20",
+        "fee": "0"
+    },
+    {
+        "name": "dYdX",
+        "chain": "DYDX-DYDX",
+        "fee": "0.03"
+    },
+    {
+        "name": "MultiversX",
+        "chain": "EGLD-Elrond",
+        "fee": "0.00064"
+    },
+    {
+        "name": "EIGEN",
+        "chain": "EIGEN-ERC20",
+        "fee": "2"
+    },
+    {
+        "name": "aelf",
+        "chain": "ELF-AELF",
+        "fee": "1"
+    },
+    {
+        "name": "Dogelon Mars",
+        "chain": "ELON-ERC20",
+        "fee": "10482773.22"
+    },
+    {
+        "name": "ENJIN",
+        "chain": "ENJ-Enjin Relay Chain",
+        "fee": "0.001"
+    },
+    {
+        "name": "Ethereum Name Service",
+        "chain": "ENS-ERC20",
+        "fee": "0.084"
+    },
+    {
+        "name": "EOS",
+        "chain": "EOS-EOS",
+        "fee": "0.08"
+    },
+    {
+        "name": "Ethernity Chain",
+        "chain": "ERN-ERC20",
+        "fee": "1.5"
+    },
+    {
+        "name": "ether.fi governance",
+        "chain": "ETHFI-ERC20",
+        "fee": "1.65"
+    },
+    {
+        "name": "EthereumPoW",
+        "chain": "ETHW-EthereumPoW",
+        "fee": "0.01"
+    },
+    {
+        "name": "Fetch",
+        "chain": "FET-ERC20",
+        "fee": "2"
+    },
+    {
+        "name": "Filecoin",
+        "chain": "FIL-Filecoin",
+        "fee": "0.0008"
+    },
+    {
+        "name": "Filecoin",
+        "chain": "FIL-FEVM",
+        "fee": "0"
+    },
+    {
+        "name": "Filecoin",
+        "chain": "FILK-OKTC",
+        "fee": "0"
+    },
+    {
+        "name": "Flamingo Finance",
+        "chain": "FLM-N3",
+        "fee": "1"
+    },
+    {
+        "name": "FLOKI",
+        "chain": "FLOKI-BSC",
+        "fee": "10000"
+    },
+    {
+        "name": "Flow",
+        "chain": "FLOW-FLOW",
+        "fee": "0"
+    },
+    {
+        "name": "Flare",
+        "chain": "FLR-Flare",
+        "fee": "1"
+    },
+    {
+        "name": "Ampleforth Governance",
+        "chain": "FORTH-ERC20",
+        "fee": "0.65"
+    },
+    {
+        "name": "Foxy",
+        "chain": "FOXY-Linea",
+        "fee": "200"
+    },
+    {
+        "name": "Fantom Token",
+        "chain": "FTM-Fantom",
+        "fee": "0"
+    },
+    {
+        "name": "Frax Share",
+        "chain": "FXS-ERC20",
+        "fee": "1.04"
+    },
+    {
+        "name": "Gravity",
+        "chain": "G-ERC20",
+        "fee": "98.3"
+    },
+    {
+        "name": "Gravity",
+        "chain": "G-Gravity Alpha Mainnet",
+        "fee": "0.000001"
+    },
+    {
+        "name": "Gala",
+        "chain": "GALA-ERC20",
+        "fee": "363.2"
+    },
+    {
+        "name": "Galatasaray Fan Token",
+        "chain": "GALFT-Chiliz 2.0 Chain",
+        "fee": "0.1"
+    },
+    {
+        "name": "Gas",
+        "chain": "GAS-N3",
+        "fee": "0.1"
+    },
+    {
+        "name": "Gearbox",
+        "chain": "GEAR-ERC20",
+        "fee": "500"
+    },
+    {
+        "name": "Aavegotchi GHST Token",
+        "chain": "GHST-ERC20",
+        "fee": "3.49"
+    },
+    {
+        "name": "GLM",
+        "chain": "GLM-ERC20",
+        "fee": "8.25"
+    },
+    {
+        "name": "Moonbeam",
+        "chain": "GLMR-Moonbeam",
+        "fee": "0.01"
+    },
+    {
+        "name": "STEPN",
+        "chain": "GMT-Solana",
+        "fee": "0"
+    },
+    {
+        "name": "STEPN",
+        "chain": "GMT-Polygon",
+        "fee": "1"
+    },
+    {
+        "name": "GMX",
+        "chain": "GMX-Arbitrum One",
+        "fee": "0.01"
+    },
+    {
+        "name": "TopGoal Token",
+        "chain": "GOAL-BSC",
+        "fee": "1"
+    },
+    {
+        "name": "TopGoal Token",
+        "chain": "GOAL-Chiliz Chain",
+        "fee": "1"
+    },
+    {
+        "name": "Goatseus Maximus",
+        "chain": "GOAT-Solana",
+        "fee": "2.85662069"
+    },
+    {
+        "name": "Gods Unchained",
+        "chain": "GODS-ERC20",
+        "fee": "17.47"
+    },
+    {
+        "name": "Guild of Guardians",
+        "chain": "GOG-ERC20",
+        "fee": "40"
+    },
+    {
+        "name": "QnA3.AI",
+        "chain": "GPT-BSC",
+        "fee": "5"
+    },
+    {
+        "name": "The Graph",
+        "chain": "GRT-ERC20",
+        "fee": "15.04"
+    },
+    {
+        "name": "Hedera",
+        "chain": "HBAR-Hedera",
+        "fee": "0.8"
+    },
+    {
+        "name": "Hamster Kombat",
+        "chain": "HMSTR-TON",
+        "fee": "30"
+    },
+    {
+        "name": "Ice Open Network",
+        "chain": "ICE-BSC",
+        "fee": "30"
+    },
+    {
+        "name": "Internet Computer Protocol",
+        "chain": "ICP-Dfinity",
+        "fee": "0.00024"
+    },
+    {
+        "name": "ICON ",
+        "chain": "ICX-ICON",
+        "fee": "0.016"
+    },
+    {
+        "name": "SPACE ID",
+        "chain": "ID-ERC20",
+        "fee": "10"
+    },
+    {
+        "name": "Illuvium",
+        "chain": "ILV-ERC20",
+        "fee": "0.088"
+    },
+    {
+        "name": "Immutable X",
+        "chain": "IMX-ERC20",
+        "fee": "2.3"
+    },
+    {
+        "name": "Injective",
+        "chain": "INJ-INJ",
+        "fee": "0.008"
+    },
+    {
+        "name": "IOST",
+        "chain": "IOST-IOST",
+        "fee": "0.8"
+    },
+    {
+        "name": "IOTA",
+        "chain": "IOTA-MIOTA",
+        "fee": "0.5"
+    },
+    {
+        "name": "Everipedia",
+        "chain": "IQ-EOS",
+        "fee": "40"
+    },
+    {
+        "name": "Jambo",
+        "chain": "J-Solana",
+        "fee": "2.21910792"
+    },
+    {
+        "name": "Trader Joe",
+        "chain": "JOE-Avalanche C-Chain",
+        "fee": "2"
+    },
+    {
+        "name": "JUST",
+        "chain": "JST-TRC20",
+        "fee": "40"
+    },
+    {
+        "name": "Jito",
+        "chain": "JTO-Solana",
+        "fee": "0.265233"
+    },
+    {
+        "name": "Jupiter",
+        "chain": "JUP-Solana",
+        "fee": "1.8"
+    },
+    {
+        "name": "Kaia",
+        "chain": "KAIA-Klaytn",
+        "fee": "0.004"
+    },
+    {
+        "name": "Kadena",
+        "chain": "KDA-Kadena",
+        "fee": "0.000001"
+    },
+    {
+        "name": "Kishu Inu",
+        "chain": "KISHU-ERC20",
+        "fee": "39880756532.46654"
+    },
+    {
+        "name": "Kyber Network",
+        "chain": "KNC-ERC20",
+        "fee": "5.19"
+    },
+    {
+        "name": "Keep3r",
+        "chain": "KP3R-ERC20",
+        "fee": "0.14"
+    },
+    {
+        "name": "Kusama",
+        "chain": "KSM-Kusama",
+        "fee": "0.008"
+    },
+    {
+        "name": "Lambda",
+        "chain": "LAMB-ERC20",
+        "fee": "1595.5"
+    },
+    {
+        "name": "PlatON Network",
+        "chain": "LAT-PlatON",
+        "fee": "0.8"
+    },
+    {
+        "name": "Lybra Finance",
+        "chain": "LBR-ERC20",
+        "fee": "5"
+    },
+    {
+        "name": "Lido DAO",
+        "chain": "LDO-ERC20",
+        "fee": "1.32"
+    },
+    {
+        "name": "Bitfinex LEO Token",
+        "chain": "LEO-ERC20",
+        "fee": "3.03"
+    },
+    {
+        "name": "Chainlink",
+        "chain": "LINK-ERC20",
+        "fee": "0.11"
+    },
+    {
+        "name": "Chainlink",
+        "chain": "LINKK-OKTC",
+        "fee": "0"
+    },
+    {
+        "name": "LooksRare",
+        "chain": "LOOKS-ERC20",
+        "fee": "79.03"
+    },
+    {
+        "name": "Livepeer",
+        "chain": "LPT-ERC20",
+        "fee": "0.24"
+    },
+    {
+        "name": "Liquity",
+        "chain": "LQTY-ERC20",
+        "fee": "1.78"
+    },
+    {
+        "name": "Loopring",
+        "chain": "LRC-ERC20",
+        "fee": "16.76"
+    },
+    {
+        "name": "Lisk",
+        "chain": "LSK-Lisk",
+        "fee": "0.08"
+    },
+    {
+        "name": "Wrapped Terra",
+        "chain": "LUNA-Terra",
+        "fee": "0.05"
+    },
+    {
+        "name": "Terra Luna Classic",
+        "chain": "LUNC-Terra Classic",
+        "fee": "1000"
+    },
+    {
+        "name": "Magic",
+        "chain": "MAGIC-Arbitrum One",
+        "fee": "0.0107512"
+    },
+    {
+        "name": "Major",
+        "chain": "MAJOR-TON",
+        "fee": "0.5"
+    },
+    {
+        "name": "Decentraland",
+        "chain": "MANA-ERC20",
+        "fee": "6.01"
+    },
+    {
+        "name": "Mask Network",
+        "chain": "MASK-ERC20",
+        "fee": "1.19"
+    },
+    {
+        "name": "Matr1x",
+        "chain": "MAX-ERC20",
+        "fee": "50"
+    },
+    {
+        "name": "Matr1x",
+        "chain": "MAX-Polygon",
+        "fee": "0"
+    },
+    {
+        "name": "Measurable Data Token",
+        "chain": "MDT-ERC20",
+        "fee": "60.21"
+    },
+    {
+        "name": "Magic Eden",
+        "chain": "ME-Solana",
+        "fee": "0.34871062"
+    },
+    {
+        "name": "Memecoin",
+        "chain": "MEME-ERC20",
+        "fee": "348.86"
+    },
+    {
+        "name": "Memefi",
+        "chain": "MEMEFI-SUI",
+        "fee": "50"
+    },
+    {
+        "name": "Flamengo Fan Token",
+        "chain": "MENGO-Chiliz 2.0 Chain",
+        "fee": "0.1"
+    },
+    {
+        "name": "Merlin Chain",
+        "chain": "MERL-MERLIN Network",
+        "fee": "5"
+    },
+    {
+        "name": "MetisDao",
+        "chain": "METIS-Metis",
+        "fee": "0.01"
+    },
+    {
+        "name": "MetisDao",
+        "chain": "METIS-Metis (Token Transfer)",
+        "fee": "0"
+    },
+    {
+        "name": "cat in a dogs world",
+        "chain": "MEW-Solana",
+        "fee": "152.99"
+    },
+    {
+        "name": "Milo Inu",
+        "chain": "MILO-BSC",
+        "fee": "60000000"
+    },
+    {
+        "name": "Mina Protocol",
+        "chain": "MINA-Mina",
+        "fee": "0.72"
+    },
+    {
+        "name": "Maker",
+        "chain": "MKR-ERC20",
+        "fee": "0.0023"
+    },
+    {
+        "name": "Enzyme",
+        "chain": "MLN-ERC20",
+        "fee": "0.18"
+    },
+    {
+        "name": "Moo Deng",
+        "chain": "MOODENG-Solana",
+        "fee": "6.32261777"
+    },
+    {
+        "name": "Morpho",
+        "chain": "MORPHO-ERC20",
+        "fee": "0.5"
+    },
+    {
+        "name": "Movement",
+        "chain": "MOVE-ERC20",
+        "fee": "2"
+    },
+    {
+        "name": "Moonriver",
+        "chain": "MOVR-Moonriver",
+        "fee": "0.002"
+    },
+    {
+        "name": "MXC",
+        "chain": "MXC-Layer 3",
+        "fee": "200"
+    },
+    {
+        "name": "Nodecoin",
+        "chain": "NC-Solana",
+        "fee": "7.5282857"
+    },
+    {
+        "name": "Near Protocol",
+        "chain": "NEAR-NEAR",
+        "fee": "0.015"
+    },
+    {
+        "name": "First Neiro On Ethereum",
+        "chain": "NEIRO-ERC20",
+        "fee": "3000"
+    },
+    {
+        "name": "NEO",
+        "chain": "NEO-N3",
+        "fee": "0.01"
+    },
+    {
+        "name": "APENFT",
+        "chain": "NFT-TRC20",
+        "fee": "80000"
+    },
+    {
+        "name": "Numeraire",
+        "chain": "NMR-ERC20",
+        "fee": "0.22"
+    },
+    {
+        "name": "Notcoin",
+        "chain": "NOT-TON",
+        "fee": "30"
+    },
+    {
+        "name": "NULS",
+        "chain": "NULS-NULS",
+        "fee": "0.008"
+    },
+    {
+        "name": "OASYS",
+        "chain": "OAS-OASYS",
+        "fee": "10"
+    },
+    {
+        "name": "OKTC Token",
+        "chain": "OKT-OKTC",
+        "fee": "0.63"
+    },
+    {
+        "name": "Open Loot",
+        "chain": "OL-ERC20",
+        "fee": "10"
+    },
+    {
+        "name": "MantraDAO",
+        "chain": "OM-ERC20",
+        "fee": "0.61"
+    },
+    {
+        "name": "ECOMI",
+        "chain": "OMI-ERC20",
+        "fee": "6000"
+    },
+    {
+        "name": "Ondo",
+        "chain": "ONDO-ERC20",
+        "fee": "1.99"
+    },
+    {
+        "name": "Harmony",
+        "chain": "ONE-Harmony",
+        "fee": "0.1"
+    },
+    {
+        "name": "Ontology",
+        "chain": "ONT-Ontology",
+        "fee": "1"
+    },
+    {
+        "name": "Optimism",
+        "chain": "OP-Optimism",
+        "fee": "0.1"
+    },
+    {
+        "name": "Orbs Network",
+        "chain": "ORBS-ERC20",
+        "fee": "101.33"
+    },
+    {
+        "name": "ordi",
+        "chain": "ORDI-BRC20",
+        "fee": "0.32"
+    },
+    {
+        "name": "ordi",
+        "chain": "ORDI-MERLIN Network",
+        "fee": "0.05"
+    },
+    {
+        "name": "Orchid",
+        "chain": "OXT-ERC20",
+        "fee": "26.2"
+    },
+    {
+        "name": "Pendle",
+        "chain": "PENDLE-ERC20",
+        "fee": "1"
+    },
+    {
+        "name": "Pengu",
+        "chain": "PENGU-Solana",
+        "fee": "29.19408713"
+    },
+    {
+        "name": "ConstitutionDAO",
+        "chain": "PEOPLE-ERC20",
+        "fee": "92.64"
+    },
+    {
+        "name": "Pepe",
+        "chain": "PEPE-ERC20",
+        "fee": "192203.31"
+    },
+    {
+        "name": "Perpetual Protocol",
+        "chain": "PERP-ERC20",
+        "fee": "4.31"
+    },
+    {
+        "name": "Phala Network",
+        "chain": "PHA-ERC20",
+        "fee": "12.75"
+    },
+    {
+        "name": "Pixels",
+        "chain": "PIXEL-Ronin",
+        "fee": "0.05"
+    },
+    {
+        "name": "Peanut the Squirrel",
+        "chain": "PNUT-Solana",
+        "fee": "5"
+    },
+    {
+        "name": "Polygon",
+        "chain": "POL-ERC20",
+        "fee": "10"
+    },
+    {
+        "name": "Polygon",
+        "chain": "POL-Polygon",
+        "fee": "0.1"
+    },
+    {
+        "name": "PolyDoge",
+        "chain": "POLYDOGE-Polygon",
+        "fee": "15000000"
+    },
+    {
+        "name": "Portugal National Team Fan Token",
+        "chain": "POR-Chiliz 2.0 Chain",
+        "fee": "0.1"
+    },
+    {
+        "name": "Parcl",
+        "chain": "PRCL-Solana",
+        "fee": "2.89"
+    },
+    {
+        "name": "PARSIQ",
+        "chain": "PRQ-ERC20",
+        "fee": "12.4"
+    },
+    {
+        "name": "pSTAKE Finance",
+        "chain": "PSTAKE-ERC20",
+        "fee": "69.69"
+    },
+    {
+        "name": "Pyth Network",
+        "chain": "PYTH-Solana",
+        "fee": "2.48401799"
+    },
+    {
+        "name": "PayPal USD",
+        "chain": "PYUSD-ERC20",
+        "fee": "2.79"
+    },
+    {
+        "name": "PayPal USD",
+        "chain": "PYUSD-Solana",
+        "fee": "0.82254872"
+    },
+    {
+        "name": "Qtum",
+        "chain": "QTUM-Quantum",
+        "fee": "0.04"
+    },
+    {
+        "name": "Radio Caca",
+        "chain": "RACA-BSC",
+        "fee": "100"
+    },
+    {
+        "name": "DappRadar",
+        "chain": "RADAR-ERC20",
+        "fee": "100"
+    },
+    {
+        "name": "Raydium",
+        "chain": "RAY-Solana",
+        "fee": "0.36"
+    },
+    {
+        "name": "Radiant Capital",
+        "chain": "RDNT-Arbitrum One",
+        "fee": "0.5"
+    },
+    {
+        "name": "Render Network",
+        "chain": "RENDER-Solana",
+        "fee": "0.11"
+    },
+    {
+        "name": "RIO",
+        "chain": "RIO-BSC",
+        "fee": "1"
+    },
+    {
+        "name": "Ronin",
+        "chain": "RON-Ronin",
+        "fee": "0.0001"
+    },
+    {
+        "name": "Rocket Pool",
+        "chain": "RPL-ERC20",
+        "fee": "0.05"
+    },
+    {
+        "name": "Reserve Rights Token",
+        "chain": "RSR-ERC20",
+        "fee": "212.91"
+    },
+    {
+        "name": "RSS3",
+        "chain": "RSS3-ERC20",
+        "fee": "28.48"
+    },
+    {
+        "name": "RSIC\u2022GENESIS\u2022RUNE",
+        "chain": "RUNECOIN-Bitcoin",
+        "fee": "2279.94"
+    },
+    {
+        "name": "Ravencoin",
+        "chain": "RVN-Ravencoin",
+        "fee": "0.8"
+    },
+    {
+        "name": "Sonic",
+        "chain": "S-Sonic",
+        "fee": "0.003"
+    },
+    {
+        "name": "Safe",
+        "chain": "SAFE-ERC20",
+        "fee": "3.34"
+    },
+    {
+        "name": "Samoyed Coin",
+        "chain": "SAMO-Solana",
+        "fee": "147.13490113"
+    },
+    {
+        "name": "SAND",
+        "chain": "SAND-ERC20",
+        "fee": "5.11"
+    },
+    {
+        "name": "SATS",
+        "chain": "SATS-BRC20",
+        "fee": "46342782.12"
+    },
+    {
+        "name": "SATS",
+        "chain": "SATS-MERLIN Network",
+        "fee": "3000000"
+    },
+    {
+        "name": "Siacoin",
+        "chain": "SC-Siacoin",
+        "fee": "0.08"
+    },
+    {
+        "name": "Scroll",
+        "chain": "SCR-Scroll",
+        "fee": "0.5"
+    },
+    {
+        "name": "Stader",
+        "chain": "SD-ERC20",
+        "fee": "2.96"
+    },
+    {
+        "name": "Shiba Inu",
+        "chain": "SHIB-ERC20",
+        "fee": "143072.13"
+    },
+    {
+        "name": "Shiba Inu",
+        "chain": "SHIBK-OKTC",
+        "fee": "0"
+    },
+    {
+        "name": "SKALE",
+        "chain": "SKL-ERC20",
+        "fee": "51.52"
+    },
+    {
+        "name": "SLERF",
+        "chain": "SLERF-Solana",
+        "fee": "4.80964348"
+    },
+    {
+        "name": "Smooth Love Potion",
+        "chain": "SLP-ERC20",
+        "fee": "891.67"
+    },
+    {
+        "name": "Status",
+        "chain": "SNT-ERC20",
+        "fee": "67.56"
+    },
+    {
+        "name": "Synthetix Network Token",
+        "chain": "SNX-ERC20",
+        "fee": "1.77"
+    },
+    {
+        "name": "Solana",
+        "chain": "SOL-Solana",
+        "fee": "0.008"
+    },
+    {
+        "name": "Sonic SVM",
+        "chain": "SONIC-Solana",
+        "fee": "1.35674892"
+    },
+    {
+        "name": "Tottenham Hotspur",
+        "chain": "SPURS-Chiliz Chain",
+        "fee": "1"
+    },
+    {
+        "name": "Serum",
+        "chain": "SRM-Solana",
+        "fee": "10"
+    },
+    {
+        "name": "SSV Network",
+        "chain": "SSV-ERC20",
+        "fee": "0.05"
+    },
+    {
+        "name": "Suiswap Token",
+        "chain": "SSWP-SUI",
+        "fee": "1"
+    },
+    {
+        "name": "Lido Staked Ether",
+        "chain": "STETH-ERC20",
+        "fee": "0.00085"
+    },
+    {
+        "name": "Storj",
+        "chain": "STORJ-ERC20",
+        "fee": "6.2"
+    },
+    {
+        "name": "Starknet",
+        "chain": "STRK-Starknet",
+        "fee": "0.99"
+    },
+    {
+        "name": "Stacks",
+        "chain": "STX-l-Stacks",
+        "fee": "1.2"
+    },
+    {
+        "name": "Sui",
+        "chain": "SUI-SUI",
+        "fee": "0.06"
+    },
+    {
+        "name": "SushiSwap",
+        "chain": "SUSHI-ERC20",
+        "fee": "2.14"
+    },
+    {
+        "name": "SushiSwap",
+        "chain": "SUSHIK-OKTC",
+        "fee": "0"
+    },
+    {
+        "name": "SWEAT",
+        "chain": "SWEAT-ERC20",
+        "fee": "370.96"
+    },
+    {
+        "name": "SWEAT",
+        "chain": "SWEAT-NEAR",
+        "fee": "2"
+    },
+    {
+        "name": "SwftCoin",
+        "chain": "SWFTC-ERC20",
+        "fee": "91.37"
+    },
+    {
+        "name": "Threshold Network Token",
+        "chain": "T-ERC20",
+        "fee": "0.17"
+    },
+    {
+        "name": "THETA",
+        "chain": "THETA-Theta",
+        "fee": "0.08"
+    },
+    {
+        "name": "Celestia",
+        "chain": "TIA-Celestia",
+        "fee": "0.1"
+    },
+    {
+        "name": "Tensor",
+        "chain": "TNSR-Solana",
+        "fee": "2.1468957"
+    },
+    {
+        "name": "Toncoin",
+        "chain": "TON-TON",
+        "fee": "0.01"
+    },
+    {
+        "name": "Trabzonspor Fan Token",
+        "chain": "TRA-Chiliz 2.0 Chain",
+        "fee": "0.1"
+    },
+    {
+        "name": "Tellor",
+        "chain": "TRB-ERC20",
+        "fee": "0.057"
+    },
+    {
+        "name": "OFFICIAL TRUMP",
+        "chain": "TRUMP-Solana",
+        "fee": "0.079"
+    },
+    {
+        "name": "TRON",
+        "chain": "TRX-TRC20",
+        "fee": "0.8"
+    },
+    {
+        "name": "TRON",
+        "chain": "TRXK-OKTC",
+        "fee": "0"
+    },
+    {
+        "name": "Turbo",
+        "chain": "TURBO-ERC20",
+        "fee": "478.9"
+    },
+    {
+        "name": "TrueUSD",
+        "chain": "TUSD-ERC20",
+        "fee": "2.79"
+    },
+    {
+        "name": "Ultiverse Token",
+        "chain": "ULTI-BSC",
+        "fee": "5"
+    },
+    {
+        "name": "UMA",
+        "chain": "UMA-ERC20",
+        "fee": "1.21"
+    },
+    {
+        "name": "Uniswap",
+        "chain": "UNI-ERC20",
+        "fee": "0.24"
+    },
+    {
+        "name": "Uniswap",
+        "chain": "UNIK-OKTC",
+        "fee": "0"
+    },
+    {
+        "name": "TerraClassicUSD",
+        "chain": "USTC-Terra Classic (USTC)",
+        "fee": "10"
+    },
+    {
+        "name": "UXLINK",
+        "chain": "UXLINK-Arbitrum One",
+        "fee": "0.5"
+    },
+    {
+        "name": "Velo",
+        "chain": "VELO-Stellar Lumens",
+        "fee": "40"
+    },
+    {
+        "name": "Velodrome Finance",
+        "chain": "VELODROME-Optimism (V2)",
+        "fee": "2"
+    },
+    {
+        "name": "Venom",
+        "chain": "VENOM-Venom",
+        "fee": "0.12"
+    },
+    {
+        "name": "Vine Coin",
+        "chain": "VINE-Solana",
+        "fee": "0"
+    },
+    {
+        "name": "Verasity",
+        "chain": "VRA-ERC20",
+        "fee": "870.77"
+    },
+    {
+        "name": "Wormhole Token",
+        "chain": "W-ERC20",
+        "fee": "5"
+    },
+    {
+        "name": "Wormhole Token",
+        "chain": "W-Solana",
+        "fee": "5"
+    },
+    {
+        "name": "WAX",
+        "chain": "WAXP-ERC20",
+        "fee": "20"
+    },
+    {
+        "name": "WAX",
+        "chain": "WAXP-Wax",
+        "fee": "0.1"
+    },
+    {
+        "name": "Wrapped Bitcoin",
+        "chain": "WBTC-ERC20",
+        "fee": "0.000027"
+    },
+    {
+        "name": "Wrapped Bitcoin",
+        "chain": "WBTCK-OKTC",
+        "fee": "0"
+    },
+    {
+        "name": "Wrapped Bitcoin",
+        "chain": "WBTC-X Layer",
+        "fee": "0.000001"
+    },
+    {
+        "name": "dogwifhat",
+        "chain": "WIF-Solana",
+        "fee": "0.56606413"
+    },
+    {
+        "name": "WINkLink",
+        "chain": "WIN-TRC20",
+        "fee": "4754.41"
+    },
+    {
+        "name": "Worldcoin",
+        "chain": "WLD-ERC20",
+        "fee": "1.38"
+    },
+    {
+        "name": "Worldcoin",
+        "chain": "WLD-Optimism",
+        "fee": "0.022"
+    },
+    {
+        "name": "WOO Network",
+        "chain": "WOO-ERC20",
+        "fee": "16.28"
+    },
+    {
+        "name": "Wall Street Memes",
+        "chain": "WSM-BSC",
+        "fee": "1000"
+    },
+    {
+        "name": "X Empire",
+        "chain": "X-TON",
+        "fee": "500"
+    },
+    {
+        "name": "Tether Gold",
+        "chain": "XAUT-ERC20",
+        "fee": "0.005"
+    },
+    {
+        "name": "Chia Network",
+        "chain": "XCH-Chia",
+        "fee": "0.0004"
+    },
+    {
+        "name": "Stellar",
+        "chain": "XLM-Stellar Lumens",
+        "fee": "0.008"
+    },
+    {
+        "name": "Nano",
+        "chain": "XNO-Nano",
+        "fee": "0.1"
+    },
+    {
+        "name": "Xraders",
+        "chain": "XR-BSC",
+        "fee": "0.1"
+    },
+    {
+        "name": "Tezos",
+        "chain": "XTZ-Tezos",
+        "fee": "0.08"
+    },
+    {
+        "name": "YEARN.FINANCE",
+        "chain": "YFI-ERC20",
+        "fee": "0.00039"
+    },
+    {
+        "name": "Yield Guild Games",
+        "chain": "YGG-ERC20",
+        "fee": "8.05"
+    },
+    {
+        "name": "Zebec Network",
+        "chain": "ZBCN-Solana",
+        "fee": "1200"
+    },
+    {
+        "name": "Zentry",
+        "chain": "ZENT-ERC20",
+        "fee": "111.5"
+    },
+    {
+        "name": "ZeroLend",
+        "chain": "ZERO-Linea",
+        "fee": "100"
+    },
+    {
+        "name": "ZetaChain",
+        "chain": "ZETA-ZetaChain",
+        "fee": "0.001"
+    },
+    {
+        "name": "ZEUS",
+        "chain": "ZEUS-Solana",
+        "fee": "2.53"
+    },
+    {
+        "name": "Zilliqa",
+        "chain": "ZIL-Zilliqa",
+        "fee": "0.8"
+    },
+    {
+        "name": "ZKsync",
+        "chain": "ZK-zkSync Era",
+        "fee": "0.5"
+    },
+    {
+        "name": "Polyhedra Network",
+        "chain": "ZKJ-ERC20",
+        "fee": "5"
+    },
+    {
+        "name": "Polyhedra Network",
+        "chain": "ZKJ-BSC",
+        "fee": "0"
+    },
+    {
+        "name": "LayerZero",
+        "chain": "ZRO-ERC20",
+        "fee": "0.74"
+    },
+    {
+        "name": "LayerZero",
+        "chain": "ZRO-Arbitrum One",
+        "fee": "0.1"
+    },
+    {
+        "name": "0x",
+        "chain": "ZRX-ERC20",
+        "fee": "6.31"
+    }
+]
